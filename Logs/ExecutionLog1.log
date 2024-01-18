@@ -1,0 +1,60 @@
+2024-01-11 13:46:53,906 [main] INFO CoverFoxInsurance - Launching CoverFox
+2024-01-11 13:46:53,914 [main] ERROR CoverFoxInsurance - Please select browser of your choice
+2024-01-11 13:47:02,318 [main] INFO CoverFoxInsurance - Clicking on Female Button
+2024-01-11 13:47:02,319 [main] ERROR CoverFoxInsurance - Enter on male button
+2024-01-11 13:47:04,385 [main] INFO CoverFoxInsurance - Clicking on Next Button
+2024-01-11 13:47:05,499 [main] INFO CoverFoxInsurance - Handling age dropdown
+2024-01-11 13:47:07,134 [main] INFO CoverFoxInsurance - Clicking on Next Button
+2024-01-11 13:47:08,214 [main] INFO CoverFoxInsurance - Entering mobile number
+2024-01-11 13:47:08,418 [main] INFO CoverFoxInsurance - Clicking on Continue Button
+2024-01-11 13:47:09,620 [main] WARN CoverFoxInsurance - Please enter valid information
+2024-01-11 13:47:09,620 [main] INFO CoverFoxInsurance - Closing Browser
+2024-01-16 23:57:33,100 [main] INFO CoverFoxInsurance - Launching CoverFox
+2024-01-16 23:57:33,106 [main] ERROR CoverFoxInsurance - Please select browser of your choice
+2024-01-16 23:57:42,313 [main] INFO CoverFoxInsurance - Clicking on Female Button
+2024-01-16 23:57:42,314 [main] ERROR CoverFoxInsurance - Enter on male button
+2024-01-16 23:57:44,940 [main] INFO CoverFoxInsurance - Clicking on Next Button
+2024-01-16 23:57:46,011 [main] INFO CoverFoxInsurance - Handling age dropdown
+2024-01-16 23:58:55,123 [main] INFO CoverFoxInsurance - Launching CoverFox
+2024-01-16 23:58:55,130 [main] ERROR CoverFoxInsurance - Please select browser of your choice
+2024-01-16 23:59:00,357 [main] INFO CoverFoxInsurance - Clicking on Female Button
+2024-01-16 23:59:00,358 [main] ERROR CoverFoxInsurance - Enter on male button
+2024-01-16 23:59:02,095 [main] INFO CoverFoxInsurance - Clicking on Next Button
+2024-01-16 23:59:03,179 [main] INFO CoverFoxInsurance - Handling age dropdown
+2024-01-16 23:59:05,078 [main] INFO CoverFoxInsurance - Clicking on Next Button
+2024-01-16 23:59:06,153 [main] INFO CoverFoxInsurance - Entering mobile number
+2024-01-16 23:59:06,339 [main] INFO CoverFoxInsurance - Clicking on Continue Button
+2024-01-16 23:59:07,521 [main] WARN CoverFoxInsurance - Please enter valid information
+2024-01-16 23:59:07,532 [main] INFO CoverFoxInsurance - Closing Browser
+2024-01-17 00:01:23,354 [main] INFO CoverFoxInsurance - Launching CoverFox
+2024-01-17 00:01:23,360 [main] ERROR CoverFoxInsurance - Please select browser of your choice
+2024-01-17 00:01:30,624 [main] INFO CoverFoxInsurance - Clicking on Female Button
+2024-01-17 00:01:30,624 [main] ERROR CoverFoxInsurance - Enter on male button
+2024-01-17 00:01:32,584 [main] INFO CoverFoxInsurance - Clicking on Next Button
+2024-01-17 00:01:33,695 [main] INFO CoverFoxInsurance - Handling age dropdown
+2024-01-17 00:01:35,437 [main] INFO CoverFoxInsurance - Clicking on Next Button
+2024-01-17 00:01:36,526 [main] INFO CoverFoxInsurance - Entering mobile number
+2024-01-17 00:01:36,736 [main] INFO CoverFoxInsurance - Clicking on Continue Button
+2024-01-17 00:01:37,883 [main] WARN CoverFoxInsurance - Please enter valid information
+2024-01-17 00:01:37,898 [main] INFO CoverFoxInsurance - Closing Browser
+2024-01-17 00:13:38,020 [main] INFO CoverFoxInsurance - Launching CoverFox
+2024-01-17 00:13:38,034 [main] ERROR CoverFoxInsurance - Please select browser of your choice
+2024-01-17 00:13:45,114 [main] INFO CoverFoxInsurance - Clicking on Female Button
+2024-01-17 00:13:45,114 [main] ERROR CoverFoxInsurance - Enter on male button
+2024-01-17 00:13:47,147 [main] INFO CoverFoxInsurance - Clicking on Next Button
+2024-01-17 00:16:09,237 [main] INFO CoverFoxInsurance - Launching CoverFox
+2024-01-17 00:16:09,243 [main] ERROR CoverFoxInsurance - Please select browser of your choice
+2024-01-17 00:16:16,186 [main] INFO CoverFoxInsurance - Clicking on Female Button
+2024-01-17 00:16:16,188 [main] ERROR CoverFoxInsurance - Enter on male button
+2024-01-17 00:16:19,126 [main] INFO CoverFoxInsurance - Clicking on Next Button
+2024-01-17 00:20:42,361 [main] INFO CoverFoxInsurance - Launching CoverFox
+2024-01-17 00:20:42,369 [main] ERROR CoverFoxInsurance - Please select browser of your choice
+2024-01-17 00:20:49,580 [main] INFO CoverFoxInsurance - Clicking on Female Button
+2024-01-17 00:20:49,580 [main] ERROR CoverFoxInsurance - Enter on male button
+2024-01-17 00:20:51,254 [main] INFO CoverFoxInsurance - Clicking on Next Button
+2024-01-17 00:20:52,360 [main] INFO CoverFoxInsurance - Handling age dropdown
+2024-01-17 00:20:53,962 [main] INFO CoverFoxInsurance - Clicking on Next Button
+2024-01-17 00:20:55,049 [main] INFO CoverFoxInsurance - Entering mobile number
+2024-01-17 00:20:55,252 [main] INFO CoverFoxInsurance - Clicking on Continue Button
+2024-01-17 00:20:56,406 [main] WARN CoverFoxInsurance - Please enter valid information
+2024-01-17 00:20:56,406 [main] INFO CoverFoxInsurance - Closing Browser
