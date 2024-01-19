@@ -19,7 +19,7 @@ public class Utility
     public static String readDataFromExcel(int row, int cell) throws IOException
     {
     	Reporter.log("Reading data from excel sheet", true);
-    	FileInputStream myFile = new FileInputStream("C:\\Users\\LENOVO\\eclipse-workspace\\firstMavenProject\\src\\test\\resources\\Test Data.xlsx");
+    	FileInputStream myFile = new FileInputStream("C:\\Users\\Admin\\git\\RunUsingGit\\src\\test\\resources\\Test Data.xlsx");
     	Sheet mySheet = WorkbookFactory.create(myFile).getSheet("CoverFox");
     	String data = mySheet.getRow(row).getCell(cell).getStringCellValue();
     	return data;

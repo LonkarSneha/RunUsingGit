@@ -47,22 +47,22 @@
       <![CDATA[Taking screenshot]]>
     </line>
     <line>
-      <![CDATA[Saved screenshot at E:\Testing+TCID_2024.01.16.23.59.49.png]]>
+      <![CDATA[Saved screenshot at E:\Testing+TCID_2024.01.19.15.17.23.png]]>
     </line>
   </reporter-output>
-  <suite started-at="2024-01-16T23:59:20 IST" name="Default suite" finished-at="2024-01-16T23:59:52 IST" duration-ms="32104">
+  <suite started-at="2024-01-19T15:16:53 IST" name="Default suite" finished-at="2024-01-19T15:17:27 IST" duration-ms="33362">
     <groups>
     </groups>
-    <test started-at="2024-01-16T23:59:20 IST" name="Default test" finished-at="2024-01-16T23:59:52 IST" duration-ms="32104">
+    <test started-at="2024-01-19T15:16:53 IST" name="Default test" finished-at="2024-01-19T15:17:27 IST" duration-ms="33362">
       <class name="coverFoxTest.CF_TC555_Validate_search_results_for_healthcare_policies">
-        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:coverFoxTest.CF_TC555_Validate_search_results_for_healthcare_policies@13c9d689]" started-at="2024-01-16T23:59:20 IST" name="launchBrowser" finished-at="2024-01-16T23:59:28 IST" duration-ms="8283" status="PASS">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:coverFoxTest.CF_TC555_Validate_search_results_for_healthcare_policies@2f4948e4]" started-at="2024-01-19T15:16:53 IST" name="launchBrowser" finished-at="2024-01-19T15:17:02 IST" duration-ms="8712" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Launching Browser]]>
             </line>
           </reporter-output>
         </test-method> <!-- launchBrowser -->
-        <test-method is-config="true" signature="enterMemberDetails()[pri:0, instance:coverFoxTest.CF_TC555_Validate_search_results_for_healthcare_policies@13c9d689]" started-at="2024-01-16T23:59:28 IST" name="enterMemberDetails" finished-at="2024-01-16T23:59:36 IST" duration-ms="7352" status="PASS">
+        <test-method is-config="true" signature="enterMemberDetails()[pri:0, instance:coverFoxTest.CF_TC555_Validate_search_results_for_healthcare_policies@2f4948e4]" started-at="2024-01-19T15:17:02 IST" name="enterMemberDetails" finished-at="2024-01-19T15:17:10 IST" duration-ms="7597" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[clicking on gender button]]>
@@ -96,7 +96,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- enterMemberDetails -->
-        <test-method signature="validateTestPlansFromTextAndBanners()[pri:0, instance:coverFoxTest.CF_TC555_Validate_search_results_for_healthcare_policies@13c9d689]" started-at="2024-01-16T23:59:36 IST" name="validateTestPlansFromTextAndBanners" finished-at="2024-01-16T23:59:49 IST" duration-ms="13418" status="PASS">
+        <test-method signature="validateTestPlansFromTextAndBanners()[pri:0, instance:coverFoxTest.CF_TC555_Validate_search_results_for_healthcare_policies@2f4948e4]" started-at="2024-01-19T15:17:10 IST" name="validateTestPlansFromTextAndBanners" finished-at="2024-01-19T15:17:23 IST" duration-ms="13978" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Fetching number of results from text]]>
@@ -111,11 +111,11 @@
               <![CDATA[Taking screenshot]]>
             </line>
             <line>
-              <![CDATA[Saved screenshot at E:\Testing+TCID_2024.01.16.23.59.49.png]]>
+              <![CDATA[Saved screenshot at E:\Testing+TCID_2024.01.19.15.17.23.png]]>
             </line>
           </reporter-output>
         </test-method> <!-- validateTestPlansFromTextAndBanners -->
-        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:coverFoxTest.CF_TC555_Validate_search_results_for_healthcare_policies@13c9d689]" started-at="2024-01-16T23:59:49 IST" name="closeBrowser" finished-at="2024-01-16T23:59:52 IST" duration-ms="3006" status="PASS">
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:coverFoxTest.CF_TC555_Validate_search_results_for_healthcare_policies@2f4948e4]" started-at="2024-01-19T15:17:23 IST" name="closeBrowser" finished-at="2024-01-19T15:17:26 IST" duration-ms="3004" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
